@@ -20,6 +20,13 @@
     { "id": "tau_empire", "display_name": "T'au Empire", "keyword": "T'AU EMPIRE", "allegiance": "xenos" },
     { "id": "dark_eldar", "display_name": "Drukhari", "keyword": "DRUKHARI", "allegiance": "xenos" },
     { "id": "genestealer_cults", "display_name": "Genestealer Cults", "keyword": "GENESTEALER CULTS", "allegiance": "xenos" },
-    { "id": "black_templars",    "display_name": "Black Templars",    "keyword": "BLACK TEMPLARS",    "allegiance": "imperium" }
+    { "id": "black_templars",  "display_name": "Black Templars",  "keyword": "BLACK TEMPLARS",  "allegiance": "imperium" },
+    { "id": "ultramarines",    "display_name": "Ultramarines",    "keyword": "ULTRAMARINES",    "allegiance": "imperium" },
+    { "id": "imperial_fists",  "display_name": "Imperial Fists",  "keyword": "IMPERIAL FISTS",  "allegiance": "imperium" },
+    { "id": "iron_hands",      "display_name": "Iron Hands",      "keyword": "IRON HANDS",      "allegiance": "imperium" },
+    { "id": "salamanders",     "display_name": "Salamanders",     "keyword": "SALAMANDERS",     "allegiance": "imperium" },
+    { "id": "raven_guard",     "display_name": "Raven Guard",     "keyword": "RAVEN GUARD",     "allegiance": "imperium" },
+    { "id": "white_scars",     "display_name": "White Scars",     "keyword": "WHITE SCARS",     "allegiance": "imperium" },
+    { "id": "deathwatch",      "display_name": "Deathwatch",      "keyword": "DEATHWATCH",      "allegiance": "imperium" }
   ]
 }
