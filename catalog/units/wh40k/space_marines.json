@@ -1,0 +1,169 @@
+{
+  "units": [
+    {
+      "catalog_ref": "sm_intercessors_v10",
+      "canonical_name": "Intercessors",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": "8th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["troops", "primaris"]
+    },
+    {
+      "catalog_ref": "sm_assault_intercessors_v10",
+      "canonical_name": "Assault Intercessors",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": "9th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["troops", "primaris"]
+    },
+    {
+      "catalog_ref": "sm_heavy_intercessors_v10",
+      "canonical_name": "Heavy Intercessors",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": "9th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["troops", "primaris"]
+    },
+    {
+      "catalog_ref": "sm_infernus_squad_v10",
+      "canonical_name": "Infernus Squad",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": "10th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["troops", "primaris"]
+    },
+    {
+      "catalog_ref": "sm_captain_phobos_v10",
+      "canonical_name": "Captain in Phobos Armour",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": "8th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["hq", "primaris", "phobos"]
+    },
+    {
+      "catalog_ref": "sm_librarian_v10",
+      "canonical_name": "Librarian",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": "1st",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["hq", "psyker"]
+    },
+    {
+      "catalog_ref": "sm_chaplain_v10",
+      "canonical_name": "Chaplain",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": "1st",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["hq"]
+    },
+    {
+      "catalog_ref": "sm_redemptor_dreadnought_v10",
+      "canonical_name": "Redemptor Dreadnought",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "vehicle",
+      "edition_introduced": "8th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["elite", "primaris", "dreadnought"]
+    },
+    {
+      "catalog_ref": "sm_land_raider_v10",
+      "canonical_name": "Land Raider",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "vehicle",
+      "edition_introduced": "1st",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["dedicated-transport"]
+    },
+    {
+      "catalog_ref": "sm_repulsor_v10",
+      "canonical_name": "Repulsor",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "vehicle",
+      "edition_introduced": "8th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["transport", "primaris"]
+    },
+    {
+      "catalog_ref": "sm_gladiator_reaper_v10",
+      "canonical_name": "Gladiator Reaper",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "vehicle",
+      "edition_introduced": "9th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["heavy-support", "primaris"]
+    },
+    {
+      "catalog_ref": "sm_eradicators_v10",
+      "canonical_name": "Eradicators",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": "9th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["elite", "primaris"]
+    },
+    {
+      "catalog_ref": "sm_sternguard_veterans_v10",
+      "canonical_name": "Sternguard Veterans",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": "5th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["elite"]
+    },
+    {
+      "catalog_ref": "sm_outriders_v10",
+      "canonical_name": "Outriders",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "mounted",
+      "edition_introduced": "9th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["fast-attack", "primaris", "bike"]
+    },
+    {
+      "catalog_ref": "sm_stormtalon_gunship_v10",
+      "canonical_name": "Stormtalon Gunship",
+      "faction_id": "space_marines",
+      "game_system": "wh40k",
+      "unit_type": "aircraft",
+      "edition_introduced": "6th",
+      "status": "current",
+      "renamed_to": null,
+      "tags": ["flyer", "fast-attack"]
+    }
+  ]
+}

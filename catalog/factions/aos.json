@@ -1,0 +1,19 @@
+{
+  "factions": [
+    { "id": "stormcast_eternals", "display_name": "Stormcast Eternals", "keyword": "STORMCAST ETERNALS", "allegiance": "order" },
+    { "id": "sylvaneth", "display_name": "Sylvaneth", "keyword": "SYLVANETH", "allegiance": "order" },
+    { "id": "lumineth_realm_lords", "display_name": "Lumineth Realm-lords", "keyword": "LUMINETH REALM-LORDS", "allegiance": "order" },
+    { "id": "kharadron_overlords", "display_name": "Kharadron Overlords", "keyword": "KHARADRON OVERLORDS", "allegiance": "order" },
+    { "id": "fyreslayers", "display_name": "Fyreslayers", "keyword": "FYRESLAYERS", "allegiance": "order" },
+    { "id": "idoneth_deepkin", "display_name": "Idoneth Deepkin", "keyword": "IDONETH DEEPKIN", "allegiance": "order" },
+    { "id": "daughters_of_khaine", "display_name": "Daughters of Khaine", "keyword": "DAUGHTERS OF KHAINE", "allegiance": "order" },
+    { "id": "seraphon", "display_name": "Seraphon", "keyword": "SERAPHON", "allegiance": "order" },
+    { "id": "slaves_to_darkness", "display_name": "Slaves to Darkness", "keyword": "SLAVES TO DARKNESS", "allegiance": "chaos" },
+    { "id": "disciples_of_tzeentch", "display_name": "Disciples of Tzeentch", "keyword": "DISCIPLES OF TZEENTCH", "allegiance": "chaos" },
+    { "id": "skaven", "display_name": "Skaven", "keyword": "SKAVEN", "allegiance": "chaos" },
+    { "id": "ossiarch_bonereapers", "display_name": "Ossiarch Bonereapers", "keyword": "OSSIARCH BONEREAPERS", "allegiance": "death" },
+    { "id": "nighthaunt", "display_name": "Nighthaunt", "keyword": "NIGHTHAUNT", "allegiance": "death" },
+    { "id": "orruk_warclans", "display_name": "Orruk Warclans", "keyword": "ORRUK WARCLANS", "allegiance": "destruction" },
+    { "id": "gloomspite_gitz", "display_name": "Gloomspite Gitz", "keyword": "GLOOMSPITE GITZ", "allegiance": "destruction" }
+  ]
+}

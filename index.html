@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="GreyPile — Track your unpainted Warhammer army. Receive grimdark reminders. Face your shame." />
+  <title>GreyPile — The Pile of Shame</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0D0D0D;
+      --card: #1A1A1A;
+      --border: #2A2A2A;
+      --white: #FFFFFF;
+      --grey: #888888;
+      --label: #555555;
+      --red: #F44336;
+      --yellow: #FFD600;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--white);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 560px;
+      padding: 64px 24px 48px;
+    }
+
+    /* Header */
+    .header { text-align: center; margin-bottom: 48px; }
+
+    .title {
+      font-size: clamp(40px, 10vw, 64px);
+      font-weight: 900;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      color: var(--white);
+      line-height: 1;
+    }
+
+    .tagline {
+      font-size: 12px;
+      font-weight: 400;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--grey);
+      margin-top: 8px;
+    }
+
+    .headline {
+      font-size: 16px;
+      color: var(--grey);
+      margin-top: 20px;
+      line-height: 1.6;
+    }
+
+    /* Phrases */
+    .phrases { margin: 40px 0; display: flex; flex-direction: column; gap: 16px; }
+
+    .phrase-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      position: relative;
+    }
+
+    .quote-mark {
+      font-size: 32px;
+      color: var(--yellow);
+      line-height: 1;
+      margin-bottom: 8px;
+      display: block;
+    }
+
+    .phrase-text {
+      font-size: 14px;
+      color: var(--grey);
+      line-height: 1.6;
+      font-style: italic;
+    }
+
+    /* Form */
+    .form-section { margin-top: 8px; }
+
+    .form-label {
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--label);
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .form-row { display: flex; gap: 8px; }
+
+    input[type="email"] {
+      flex: 1;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 14px 16px;
+      font-size: 14px;
+      color: var(--white);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    input[type="email"]::placeholder { color: var(--grey); }
+    input[type="email"]:focus { border-color: var(--red); }
+
+    .cta-button {
+      background: var(--red);
+      color: var(--white);
+      border: none;
+      border-radius: 6px;
+      padding: 14px 20px;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: opacity 0.2s;
+    }
+
+    .cta-button:hover { opacity: 0.85; }
+    .cta-button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    .success-msg {
+      display: none;
+      color: #4CAF50;
+      font-size: 13px;
+      margin-top: 12px;
+      text-align: center;
+    }
+
+    .error-msg {
+      display: none;
+      color: var(--red);
+      font-size: 13px;
+      margin-top: 12px;
+      text-align: center;
+    }
+
+    /* Footer */
+    .footer {
+      margin-top: 48px;
+      text-align: center;
+      padding-bottom: 40px;
+    }
+
+    .ios-badge {
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--label);
+    }
+
+    .dot {
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      background: #4CAF50;
+      border-radius: 50%;
+      margin-right: 6px;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    .status-line {
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--label);
+      margin-bottom: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="header">
+      <h1 class="title">GreyPile</h1>
+      <p class="tagline">The Pile of Shame</p>
+      <p class="headline">Track your unpainted army.<br>Receive grimdark reminders.<br>Face your shame.</p>
+    </div>
+
+    <p class="status-line"><span class="dot"></span>Command Terminal Active</p>
+
+    <div class="phrases">
+      <div class="phrase-card">
+        <span class="quote-mark">"</span>
+        <p class="phrase-text">Another week has passed, Commander. Your unpainted warriors wait in silence. The Emperor's patience is not infinite — and neither is yours.</p>
+      </div>
+      <div class="phrase-card">
+        <span class="quote-mark">"</span>
+        <p class="phrase-text">In the grim darkness of the far future, there is only grey plastic. They stare at you from the shelf. You know what must be done.</p>
+      </div>
+      <div class="phrase-card">
+        <span class="quote-mark">"</span>
+        <p class="phrase-text">Your pile of shame grows while your motivation wanes. Today, you will pick up the brush. Today, the shame ends — or continues. Your choice, Commander.</p>
+      </div>
+    </div>
+
+    <div class="form-section">
+      <span class="form-label">Notify me when it launches</span>
+      <form
+        id="signup-form"
+        action="https://formspree.io/f/greypile"
+        method="POST"
+      >
+        <div class="form-row">
+          <input
+            type="email"
+            name="email"
+            placeholder="your@email.com"
+            required
+            autocomplete="email"
+          />
+          <button type="submit" class="cta-button" id="submit-btn">
+            Notify Me
+          </button>
+        </div>
+        <p class="success-msg" id="success-msg">Confirmed, Commander. We'll summon you when the time comes.</p>
+        <p class="error-msg" id="error-msg">Transmission failed. Try again.</p>
+      </form>
+    </div>
+
+    <div class="footer">
+      <p class="ios-badge">Coming soon to iOS</p>
+    </div>
+
+  </div>
+
+  <script>
+    const form = document.getElementById('signup-form');
+    const btn = document.getElementById('submit-btn');
+    const successMsg = document.getElementById('success-msg');
+    const errorMsg = document.getElementById('error-msg');
+
+    form.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      btn.disabled = true;
+      btn.textContent = '...';
+      successMsg.style.display = 'none';
+      errorMsg.style.display = 'none';
+
+      try {
+        const res = await fetch(form.action, {
+          method: 'POST',
+          body: new FormData(form),
+          headers: { 'Accept': 'application/json' }
+        });
+        if (res.ok) {
+          successMsg.style.display = 'block';
+          form.reset();
+        } else {
+          errorMsg.style.display = 'block';
+          btn.disabled = false;
+          btn.textContent = 'Notify Me';
+        }
+      } catch {
+        errorMsg.style.display = 'block';
+        btn.disabled = false;
+        btn.textContent = 'Notify Me';
+      }
+    });
+  </script>
+</body>
+</html>
