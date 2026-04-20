@@ -19,6 +19,7 @@
     { "id": "eldar", "display_name": "Aeldari", "keyword": "AELDARI", "allegiance": "xenos" },
     { "id": "tau_empire", "display_name": "T'au Empire", "keyword": "T'AU EMPIRE", "allegiance": "xenos" },
     { "id": "dark_eldar", "display_name": "Drukhari", "keyword": "DRUKHARI", "allegiance": "xenos" },
-    { "id": "genestealer_cults", "display_name": "Genestealer Cults", "keyword": "GENESTEALER CULTS", "allegiance": "xenos" }
+    { "id": "genestealer_cults", "display_name": "Genestealer Cults", "keyword": "GENESTEALER CULTS", "allegiance": "xenos" },
+    { "id": "black_templars",    "display_name": "Black Templars",    "keyword": "BLACK TEMPLARS",    "allegiance": "imperium" }
   ]
 }
