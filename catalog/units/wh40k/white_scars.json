@@ -1,3 +1,28 @@
 {
-  "units": []
+  "units": [
+    {
+      "catalog_ref": "wh40k_white_scars_kor_sarro_khan",
+      "canonical_name": "Kor'sarro Khan",
+      "faction_id": "white_scars",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 60,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_white_scars_suboden_khan",
+      "canonical_name": "Suboden Khan",
+      "faction_id": "white_scars",
+      "game_system": "wh40k",
+      "unit_type": "mounted",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 115,
+      "tags": []
+    }
+  ]
 }

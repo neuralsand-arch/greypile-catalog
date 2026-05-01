@@ -1,3 +1,28 @@
 {
-  "units": []
+  "units": [
+    {
+      "catalog_ref": "wh40k_iron_hands_iron_father_feirros",
+      "canonical_name": "Iron Father Feirros",
+      "faction_id": "iron_hands",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 95,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_iron_hands_caanok_var",
+      "canonical_name": "Caanok Var",
+      "faction_id": "iron_hands",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 100,
+      "tags": []
+    }
+  ]
 }

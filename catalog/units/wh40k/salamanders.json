@@ -1,3 +1,28 @@
 {
-  "units": []
+  "units": [
+    {
+      "catalog_ref": "wh40k_salamanders_adrax_agatone",
+      "canonical_name": "Adrax Agatone",
+      "faction_id": "salamanders",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 85,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_salamanders_vulkan_he_stan",
+      "canonical_name": "Vulkan He'stan",
+      "faction_id": "salamanders",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 100,
+      "tags": []
+    }
+  ]
 }

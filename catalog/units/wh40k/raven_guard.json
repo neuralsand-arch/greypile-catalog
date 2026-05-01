@@ -1,3 +1,28 @@
 {
-  "units": []
+  "units": [
+    {
+      "catalog_ref": "wh40k_raven_guard_kayvaan_shrike",
+      "canonical_name": "Kayvaan Shrike",
+      "faction_id": "raven_guard",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 100,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_raven_guard_aethon_shaan",
+      "canonical_name": "Aethon Shaan",
+      "faction_id": "raven_guard",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 110,
+      "tags": []
+    }
+  ]
 }

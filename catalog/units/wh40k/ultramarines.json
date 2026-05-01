@@ -1,3 +1,196 @@
 {
-  "units": []
+  "units": [
+    {
+      "catalog_ref": "wh40k_ultramarines_captain_sicarius",
+      "canonical_name": "Captain Sicarius",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 85,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_chaplain_cassius_legends",
+      "canonical_name": "Chaplain Cassius [Legends]",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 80,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_chief_librarian_tigurius",
+      "canonical_name": "Chief Librarian Tigurius",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 75,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_marneus_calgar",
+      "canonical_name": "Marneus Calgar",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 200,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_roboute_guilliman",
+      "canonical_name": "Roboute Guilliman",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 340,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_sergeant_chronus_legends",
+      "canonical_name": "Sergeant Chronus [Legends]",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 75,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_sergeant_telion_legends",
+      "canonical_name": "Sergeant Telion [Legends]",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 70,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_tyrannic_war_veterans_legends",
+      "canonical_name": "Tyrannic War Veterans [Legends]",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 85,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_uriel_ventris",
+      "canonical_name": "Uriel Ventris",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 95,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_ultramarines_honour_guard_legends",
+      "canonical_name": "Ultramarines Honour Guard [Legends]",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 155,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_lieutenant_titus",
+      "canonical_name": "Lieutenant Titus",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 70,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_marneus_calgar_in_armour_of_antilochus",
+      "canonical_name": "Marneus Calgar in Armour of Antilochus",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 140,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_cato_sicarius",
+      "canonical_name": "Cato Sicarius",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 95,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_victrix_honour_guard",
+      "canonical_name": "Victrix Honour Guard",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 110,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_captain_titus",
+      "canonical_name": "Captain Titus",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 90,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_ultramarines_wardens_of_ultramar",
+      "canonical_name": "Wardens of Ultramar",
+      "faction_id": "ultramarines",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 105,
+      "tags": []
+    }
+  ]
 }

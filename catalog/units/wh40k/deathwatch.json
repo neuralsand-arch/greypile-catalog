@@ -1,3 +1,136 @@
 {
-  "units": []
+  "units": [
+    {
+      "catalog_ref": "wh40k_deathwatch_watch_master",
+      "canonical_name": "Watch Master",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 95,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_watch_captain_artemis",
+      "canonical_name": "Watch Captain Artemis",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 65,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_corvus_blackstar",
+      "canonical_name": "Corvus Blackstar",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "aircraft",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 180,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_kill_team_cassius_legends",
+      "canonical_name": "Kill Team Cassius [Legends]",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 220,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_deathwatch_terminator_squad",
+      "canonical_name": "Deathwatch Terminator Squad",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 190,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_fortis_kill_team",
+      "canonical_name": "Fortis Kill Team",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 180,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_indomitor_kill_team",
+      "canonical_name": "Indomitor Kill Team",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 265,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_spectrus_kill_team",
+      "canonical_name": "Spectrus Kill Team",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 180,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_deathwatch_veterans",
+      "canonical_name": "Deathwatch Veterans",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 100,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_talonstrike_kill_team",
+      "canonical_name": "Talonstrike Kill Team",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 275,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_deathwatch_decimus_kill_team",
+      "canonical_name": "Decimus Kill Team",
+      "faction_id": "deathwatch",
+      "game_system": "wh40k",
+      "unit_type": "infantry",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 100,
+      "tags": []
+    }
+  ]
 }

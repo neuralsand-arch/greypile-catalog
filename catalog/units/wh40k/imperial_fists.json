@@ -1,3 +1,40 @@
 {
-  "units": []
+  "units": [
+    {
+      "catalog_ref": "wh40k_imperial_fists_darnath_lysander",
+      "canonical_name": "Darnath Lysander",
+      "faction_id": "imperial_fists",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 100,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_imperial_fists_tor_garadon",
+      "canonical_name": "Tor Garadon",
+      "faction_id": "imperial_fists",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 90,
+      "tags": []
+    },
+    {
+      "catalog_ref": "wh40k_imperial_fists_pedro_kantor",
+      "canonical_name": "Pedro Kantor",
+      "faction_id": "imperial_fists",
+      "game_system": "wh40k",
+      "unit_type": "character",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 90,
+      "tags": []
+    }
+  ]
 }
