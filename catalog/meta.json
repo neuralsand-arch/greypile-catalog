@@ -1,6 +1,6 @@
 {
-  "version": "2026.05.01",
-  "generated_at": "2026-05-01T10:38:10.713Z",
+  "version": "2026.05.01-3",
+  "generated_at": "2026-05-01T10:40:16.181Z",
   "total_units": 0,
   "game_systems": [
     "wh40k",
@@ -8,9 +8,9 @@
   ],
   "changelog": [
     {
-      "version": "2026.05.01",
+      "version": "2026.05.01-3",
       "changes": [
-        "clear"
+        "test publish"
       ]
     }
   ]
