@@ -9,7 +9,11 @@
       "edition_introduced": "8th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["troops", "primaris"]
+      "tags": [
+        "troops",
+        "primaris"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_assault_intercessors_v10",
@@ -20,7 +24,11 @@
       "edition_introduced": "9th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["troops", "primaris"]
+      "tags": [
+        "troops",
+        "primaris"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_heavy_intercessors_v10",
@@ -31,7 +39,11 @@
       "edition_introduced": "9th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["troops", "primaris"]
+      "tags": [
+        "troops",
+        "primaris"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_infernus_squad_v10",
@@ -42,7 +54,11 @@
       "edition_introduced": "10th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["troops", "primaris"]
+      "tags": [
+        "troops",
+        "primaris"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_captain_phobos_v10",
@@ -53,7 +69,12 @@
       "edition_introduced": "8th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["hq", "primaris", "phobos"]
+      "tags": [
+        "hq",
+        "primaris",
+        "phobos"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_librarian_v10",
@@ -64,7 +85,11 @@
       "edition_introduced": "1st",
       "status": "current",
       "renamed_to": null,
-      "tags": ["hq", "psyker"]
+      "tags": [
+        "hq",
+        "psyker"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_chaplain_v10",
@@ -75,7 +100,10 @@
       "edition_introduced": "1st",
       "status": "current",
       "renamed_to": null,
-      "tags": ["hq"]
+      "tags": [
+        "hq"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_redemptor_dreadnought_v10",
@@ -86,7 +114,12 @@
       "edition_introduced": "8th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["elite", "primaris", "dreadnought"]
+      "tags": [
+        "elite",
+        "primaris",
+        "dreadnought"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_land_raider_v10",
@@ -97,7 +130,10 @@
       "edition_introduced": "1st",
       "status": "current",
       "renamed_to": null,
-      "tags": ["dedicated-transport"]
+      "tags": [
+        "dedicated-transport"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_repulsor_v10",
@@ -108,7 +144,11 @@
       "edition_introduced": "8th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["transport", "primaris"]
+      "tags": [
+        "transport",
+        "primaris"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_gladiator_reaper_v10",
@@ -119,7 +159,11 @@
       "edition_introduced": "9th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["heavy-support", "primaris"]
+      "tags": [
+        "heavy-support",
+        "primaris"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_eradicators_v10",
@@ -130,7 +174,11 @@
       "edition_introduced": "9th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["elite", "primaris"]
+      "tags": [
+        "elite",
+        "primaris"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_sternguard_veterans_v10",
@@ -141,7 +189,10 @@
       "edition_introduced": "5th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["elite"]
+      "tags": [
+        "elite"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_outriders_v10",
@@ -152,7 +203,12 @@
       "edition_introduced": "9th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["fast-attack", "primaris", "bike"]
+      "tags": [
+        "fast-attack",
+        "primaris",
+        "bike"
+      ],
+      "points_cost": null
     },
     {
       "catalog_ref": "sm_stormtalon_gunship_v10",
@@ -163,7 +219,11 @@
       "edition_introduced": "6th",
       "status": "current",
       "renamed_to": null,
-      "tags": ["flyer", "fast-attack"]
+      "tags": [
+        "flyer",
+        "fast-attack"
+      ],
+      "points_cost": null
     }
   ]
 }
