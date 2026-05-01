@@ -1,3 +1,172 @@
 {
-  "factions": []
+  "factions": [
+    {
+      "id": "cities_of_sigmar",
+      "display_name": "Cities of Sigmar",
+      "keyword": "CITIES OF SIGMAR",
+      "allegiance": "Order",
+      "bsdata_name": "Cities of Sigmar"
+    },
+    {
+      "id": "daughters_of_khaine",
+      "display_name": "Daughters of Khaine",
+      "keyword": "DAUGHTERS OF KHAINE",
+      "allegiance": "Order",
+      "bsdata_name": "Daughters of Khaine"
+    },
+    {
+      "id": "fyreslayers",
+      "display_name": "Fyreslayers",
+      "keyword": "FYRESLAYERS",
+      "allegiance": "Order",
+      "bsdata_name": "Fyreslayers"
+    },
+    {
+      "id": "idoneth_deepkin",
+      "display_name": "Idoneth Deepkin",
+      "keyword": "IDONETH DEEPKIN",
+      "allegiance": "Order",
+      "bsdata_name": "Idoneth Deepkin"
+    },
+    {
+      "id": "kharadron_overlords",
+      "display_name": "Kharadron Overlords",
+      "keyword": "KHARADRON OVERLORDS",
+      "allegiance": "Order",
+      "bsdata_name": "Kharadron Overlords"
+    },
+    {
+      "id": "lumineth_realm_lords",
+      "display_name": "Lumineth Realm-lords",
+      "keyword": "LUMINETH REALM-LORDS",
+      "allegiance": "Order",
+      "bsdata_name": "Lumineth Realm-lords"
+    },
+    {
+      "id": "seraphon",
+      "display_name": "Seraphon",
+      "keyword": "SERAPHON",
+      "allegiance": "Order",
+      "bsdata_name": "Seraphon"
+    },
+    {
+      "id": "beasts_of_chaos",
+      "display_name": "Beasts of Chaos",
+      "keyword": "BEASTS OF CHAOS",
+      "allegiance": "Chaos",
+      "bsdata_name": "Beasts of Chaos"
+    },
+    {
+      "id": "blades_of_khorne",
+      "display_name": "Blades of Khorne",
+      "keyword": "BLADES OF KHORNE",
+      "allegiance": "Chaos",
+      "bsdata_name": "Blades of Khorne"
+    },
+    {
+      "id": "disciples_of_tzeentch",
+      "display_name": "Disciples of Tzeentch",
+      "keyword": "DISCIPLES OF TZEENTCH",
+      "allegiance": "Chaos",
+      "bsdata_name": "Disciples of Tzeentch"
+    },
+    {
+      "id": "hedonites_of_slaanesh",
+      "display_name": "Hedonites of Slaanesh",
+      "keyword": "HEDONITES OF SLAANESH",
+      "allegiance": "Chaos",
+      "bsdata_name": "Hedonites of Slaanesh"
+    },
+    {
+      "id": "helsmiths_of_hashut",
+      "display_name": "Helsmiths of Hashut",
+      "keyword": "HELSMITHS OF HASHUT",
+      "allegiance": "Chaos",
+      "bsdata_name": "Helsmiths of Hashut"
+    },
+    {
+      "id": "maggotkin_of_nurgle",
+      "display_name": "Maggotkin of Nurgle",
+      "keyword": "MAGGOTKIN OF NURGLE",
+      "allegiance": "Chaos",
+      "bsdata_name": "Maggotkin of Nurgle"
+    },
+    {
+      "id": "slaves_to_darkness",
+      "display_name": "Slaves to Darkness",
+      "keyword": "SLAVES TO DARKNESS",
+      "allegiance": "Chaos",
+      "bsdata_name": "Slaves to Darkness"
+    },
+    {
+      "id": "skaven",
+      "display_name": "Skaven",
+      "keyword": "SKAVEN",
+      "allegiance": "Chaos",
+      "bsdata_name": "Skaven"
+    },
+    {
+      "id": "flesh_eater_courts",
+      "display_name": "Flesh-eater Courts",
+      "keyword": "FLESH-EATER COURTS",
+      "allegiance": "Death",
+      "bsdata_name": "Flesh-eater Courts"
+    },
+    {
+      "id": "nighthaunt",
+      "display_name": "Nighthaunt",
+      "keyword": "NIGHTHAUNT",
+      "allegiance": "Death",
+      "bsdata_name": "Nighthaunt"
+    },
+    {
+      "id": "ossiarch_bonereapers",
+      "display_name": "Ossiarch Bonereapers",
+      "keyword": "OSSIARCH BONEREAPERS",
+      "allegiance": "Death",
+      "bsdata_name": "Ossiarch Bonereapers"
+    },
+    {
+      "id": "big_waaagh",
+      "display_name": "Big Waaagh!",
+      "keyword": "BIG WAAAGH",
+      "allegiance": "Destruction",
+      "bsdata_name": "Big Waaagh!"
+    },
+    {
+      "id": "bonesplitterz",
+      "display_name": "Bonesplitterz",
+      "keyword": "BONESPLITTERZ",
+      "allegiance": "Destruction",
+      "bsdata_name": "Bonesplitterz"
+    },
+    {
+      "id": "gloomspite_gitz",
+      "display_name": "Gloomspite Gitz",
+      "keyword": "GLOOMSPITE GITZ",
+      "allegiance": "Destruction",
+      "bsdata_name": "Gloomspite Gitz"
+    },
+    {
+      "id": "ironjawz",
+      "display_name": "Ironjawz",
+      "keyword": "IRONJAWZ",
+      "allegiance": "Destruction",
+      "bsdata_name": "Ironjawz"
+    },
+    {
+      "id": "kruleboyz",
+      "display_name": "Kruleboyz",
+      "keyword": "KRULEBOYZ",
+      "allegiance": "Destruction",
+      "bsdata_name": "Kruleboyz"
+    },
+    {
+      "id": "ogor_mawtribes",
+      "display_name": "Ogor Mawtribes",
+      "keyword": "OGOR MAWTRIBES",
+      "allegiance": "Destruction",
+      "bsdata_name": "Ogor Mawtribes"
+    }
+  ]
 }

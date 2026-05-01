@@ -1,0 +1,148 @@
+{
+  "units": [
+    {
+      "catalog_ref": "aos_bonesplitterz_wurrgog_prophet",
+      "canonical_name": "Wurrgog Prophet",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 160,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_maniak_weirdnob",
+      "canonical_name": "Maniak Weirdnob",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 160,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_savage_big_boss",
+      "canonical_name": "Savage Big Boss",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 110,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_wardokk",
+      "canonical_name": "Wardokk",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 100,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_savage_big_stabbas",
+      "canonical_name": "Savage Big Stabbas",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 130,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_savage_boarboy_maniaks",
+      "canonical_name": "Savage Boarboy Maniaks",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 140,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_savage_boarboys",
+      "canonical_name": "Savage Boarboys",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 140,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_savage_orruk_morboys",
+      "canonical_name": "Savage Orruk Morboys",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 160,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_savage_orruk_arrowboys",
+      "canonical_name": "Savage Orruk Arrowboys",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 140,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_savage_orruks",
+      "canonical_name": "Savage Orruks",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 140,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_hedkrakka_s_madmob",
+      "canonical_name": "Hedkrakka's Madmob",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 100,
+      "tags": []
+    },
+    {
+      "catalog_ref": "aos_bonesplitterz_kragnos_the_end_of_empires",
+      "canonical_name": "Kragnos, the End of Empires",
+      "faction_id": "bonesplitterz",
+      "game_system": "aos",
+      "unit_type": "other",
+      "edition_introduced": null,
+      "status": "current",
+      "renamed_to": null,
+      "points_cost": 580,
+      "tags": []
+    }
+  ]
+}
