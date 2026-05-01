@@ -1,3 +1,148 @@
 {
-  "factions": []
+  "factions": [
+    {
+      "id": "stormcast_eternals",
+      "display_name": "Stormcast Eternals",
+      "keyword": "STORMCAST ETERNALS",
+      "allegiance": "order"
+    },
+    {
+      "id": "cities_of_sigmar",
+      "display_name": "Cities of Sigmar",
+      "keyword": "CITIES OF SIGMAR",
+      "allegiance": "order"
+    },
+    {
+      "id": "sylvaneth",
+      "display_name": "Sylvaneth",
+      "keyword": "SYLVANETH",
+      "allegiance": "order"
+    },
+    {
+      "id": "lumineth_realm_lords",
+      "display_name": "Lumineth Realm-lords",
+      "keyword": "LUMINETH REALM-LORDS",
+      "allegiance": "order"
+    },
+    {
+      "id": "kharadron_overlords",
+      "display_name": "Kharadron Overlords",
+      "keyword": "KHARADRON OVERLORDS",
+      "allegiance": "order"
+    },
+    {
+      "id": "fyreslayers",
+      "display_name": "Fyreslayers",
+      "keyword": "FYRESLAYERS",
+      "allegiance": "order"
+    },
+    {
+      "id": "idoneth_deepkin",
+      "display_name": "Idoneth Deepkin",
+      "keyword": "IDONETH DEEPKIN",
+      "allegiance": "order"
+    },
+    {
+      "id": "daughters_of_khaine",
+      "display_name": "Daughters of Khaine",
+      "keyword": "DAUGHTERS OF KHAINE",
+      "allegiance": "order"
+    },
+    {
+      "id": "seraphon",
+      "display_name": "Seraphon",
+      "keyword": "SERAPHON",
+      "allegiance": "order"
+    },
+    {
+      "id": "slaves_to_darkness",
+      "display_name": "Slaves to Darkness",
+      "keyword": "SLAVES TO DARKNESS",
+      "allegiance": "chaos"
+    },
+    {
+      "id": "blades_of_khorne",
+      "display_name": "Blades of Khorne",
+      "keyword": "BLADES OF KHORNE",
+      "allegiance": "chaos"
+    },
+    {
+      "id": "disciples_of_tzeentch",
+      "display_name": "Disciples of Tzeentch",
+      "keyword": "DISCIPLES OF TZEENTCH",
+      "allegiance": "chaos"
+    },
+    {
+      "id": "maggotkin_of_nurgle",
+      "display_name": "Maggotkin of Nurgle",
+      "keyword": "MAGGOTKIN OF NURGLE",
+      "allegiance": "chaos"
+    },
+    {
+      "id": "hedonites_of_slaanesh",
+      "display_name": "Hedonites of Slaanesh",
+      "keyword": "HEDONITES OF SLAANESH",
+      "allegiance": "chaos"
+    },
+    {
+      "id": "skaven",
+      "display_name": "Skaven",
+      "keyword": "SKAVEN",
+      "allegiance": "chaos"
+    },
+    {
+      "id": "helsmiths_of_hashut",
+      "display_name": "Helsmiths of Hashut",
+      "keyword": "HELSMITHS OF HASHUT",
+      "allegiance": "chaos"
+    },
+    {
+      "id": "ossiarch_bonereapers",
+      "display_name": "Ossiarch Bonereapers",
+      "keyword": "OSSIARCH BONEREAPERS",
+      "allegiance": "death"
+    },
+    {
+      "id": "nighthaunt",
+      "display_name": "Nighthaunt",
+      "keyword": "NIGHTHAUNT",
+      "allegiance": "death"
+    },
+    {
+      "id": "flesh_eater_courts",
+      "display_name": "Flesh-eater Courts",
+      "keyword": "FLESH-EATER COURTS",
+      "allegiance": "death"
+    },
+    {
+      "id": "soulblight_gravelords",
+      "display_name": "Soulblight Gravelords",
+      "keyword": "SOULBLIGHT GRAVELORDS",
+      "allegiance": "death"
+    },
+    {
+      "id": "orruk_warclans",
+      "display_name": "Orruk Warclans",
+      "keyword": "ORRUK WARCLANS",
+      "allegiance": "destruction"
+    },
+    {
+      "id": "gloomspite_gitz",
+      "display_name": "Gloomspite Gitz",
+      "keyword": "GLOOMSPITE GITZ",
+      "allegiance": "destruction"
+    },
+    {
+      "id": "ogor_mawtribes",
+      "display_name": "Ogor Mawtribes",
+      "keyword": "OGOR MAWTRIBES",
+      "allegiance": "destruction"
+    },
+    {
+      "id": "sons_of_behemat",
+      "display_name": "Sons of Behemat",
+      "keyword": "SONS OF BEHEMAT",
+      "allegiance": "destruction"
+    }
+  ]
 }
