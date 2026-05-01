@@ -1,6 +1,6 @@
 {
-  "version": "2026.05.01",
-  "generated_at": "2026-05-01T10:42:46.321Z",
+  "version": "2026.05.01-4",
+  "generated_at": "2026-05-01T10:57:11.643Z",
   "total_units": 0,
   "game_systems": [
     "wh40k",
@@ -8,9 +8,9 @@
   ],
   "changelog": [
     {
-      "version": "2026.05.01",
+      "version": "2026.05.01-4",
       "changes": [
-        "clear all"
+        "test: verify all faction files overwritten"
       ]
     }
   ]
