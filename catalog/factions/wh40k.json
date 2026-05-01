@@ -4,211 +4,205 @@
       "id": "space_marines",
       "display_name": "Space Marines",
       "keyword": "ADEPTUS ASTARTES",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "black_templars",
-      "display_name": "Black Templars",
-      "keyword": "BLACK TEMPLARS",
-      "allegiance": "Imperium"
+      "allegiance": "imperium"
     },
     {
       "id": "blood_angels",
       "display_name": "Blood Angels",
       "keyword": "BLOOD ANGELS",
-      "allegiance": "Imperium"
+      "allegiance": "imperium"
     },
     {
       "id": "dark_angels",
       "display_name": "Dark Angels",
       "keyword": "DARK ANGELS",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "deathwatch",
-      "display_name": "Deathwatch",
-      "keyword": "DEATHWATCH",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "grey_knights",
-      "display_name": "Grey Knights",
-      "keyword": "GREY KNIGHTS",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "imperial_fists",
-      "display_name": "Imperial Fists",
-      "keyword": "IMPERIAL FISTS",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "iron_hands",
-      "display_name": "Iron Hands",
-      "keyword": "IRON HANDS",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "raven_guard",
-      "display_name": "Raven Guard",
-      "keyword": "RAVEN GUARD",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "salamanders",
-      "display_name": "Salamanders",
-      "keyword": "SALAMANDERS",
-      "allegiance": "Imperium"
+      "allegiance": "imperium"
     },
     {
       "id": "space_wolves",
       "display_name": "Space Wolves",
       "keyword": "SPACE WOLVES",
-      "allegiance": "Imperium"
+      "allegiance": "imperium"
     },
     {
-      "id": "ultramarines",
-      "display_name": "Ultramarines",
-      "keyword": "ULTRAMARINES",
-      "allegiance": "Imperium"
+      "id": "grey_knights",
+      "display_name": "Grey Knights",
+      "keyword": "GREY KNIGHTS",
+      "allegiance": "imperium"
     },
     {
-      "id": "white_scars",
-      "display_name": "White Scars",
-      "keyword": "WHITE SCARS",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "adepta_sororitas",
-      "display_name": "Adepta Sororitas",
+      "id": "sisters_of_battle",
+      "display_name": "Sisters of Battle",
       "keyword": "ADEPTA SORORITAS",
-      "allegiance": "Imperium"
+      "allegiance": "imperium"
     },
     {
       "id": "adeptus_custodes",
       "display_name": "Adeptus Custodes",
       "keyword": "ADEPTUS CUSTODES",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "adeptus_mechanicus",
-      "display_name": "Adeptus Mechanicus",
-      "keyword": "ADEPTUS MECHANICUS",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "agents_of_the_imperium",
-      "display_name": "Agents of the Imperium",
-      "keyword": "AGENTS OF THE IMPERIUM",
-      "allegiance": "Imperium"
+      "allegiance": "imperium"
     },
     {
       "id": "astra_militarum",
       "display_name": "Astra Militarum",
       "keyword": "ASTRA MILITARUM",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "imperial_knights",
-      "display_name": "Imperial Knights",
-      "keyword": "IMPERIAL KNIGHTS",
-      "allegiance": "Imperium"
-    },
-    {
-      "id": "chaos_daemons",
-      "display_name": "Chaos Daemons",
-      "keyword": "CHAOS DAEMONS",
-      "allegiance": "Chaos"
-    },
-    {
-      "id": "chaos_knights",
-      "display_name": "Chaos Knights",
-      "keyword": "CHAOS KNIGHTS",
-      "allegiance": "Chaos"
-    },
-    {
-      "id": "chaos_space_marines",
-      "display_name": "Chaos Space Marines",
-      "keyword": "HERETIC ASTARTES",
-      "allegiance": "Chaos"
+      "allegiance": "imperium"
     },
     {
       "id": "death_guard",
       "display_name": "Death Guard",
       "keyword": "DEATH GUARD",
-      "allegiance": "Chaos"
-    },
-    {
-      "id": "emperors_children",
-      "display_name": "Emperor's Children",
-      "keyword": "EMPEROR'S CHILDREN",
-      "allegiance": "Chaos"
+      "allegiance": "chaos"
     },
     {
       "id": "thousand_sons",
       "display_name": "Thousand Sons",
       "keyword": "THOUSAND SONS",
-      "allegiance": "Chaos"
+      "allegiance": "chaos"
     },
     {
       "id": "world_eaters",
       "display_name": "World Eaters",
       "keyword": "WORLD EATERS",
-      "allegiance": "Chaos"
+      "allegiance": "chaos"
     },
     {
-      "id": "craftworlds",
-      "display_name": "Craftworlds",
-      "keyword": "AELDARI",
-      "allegiance": "Xenos"
+      "id": "emperors_children",
+      "display_name": "Emperor's Children",
+      "keyword": "EMPEROR'S CHILDREN",
+      "allegiance": "chaos"
     },
     {
-      "id": "drukhari",
-      "display_name": "Drukhari",
-      "keyword": "DRUKHARI",
-      "allegiance": "Xenos"
-    },
-    {
-      "id": "ynnari",
-      "display_name": "Ynnari",
-      "keyword": "YNNARI",
-      "allegiance": "Xenos"
-    },
-    {
-      "id": "genestealer_cults",
-      "display_name": "Genestealer Cults",
-      "keyword": "GENESTEALER CULTS",
-      "allegiance": "Xenos"
-    },
-    {
-      "id": "leagues_of_votann",
-      "display_name": "Leagues of Votann",
-      "keyword": "LEAGUES OF VOTANN",
-      "allegiance": "Xenos"
-    },
-    {
-      "id": "necrons",
-      "display_name": "Necrons",
-      "keyword": "NECRONS",
-      "allegiance": "Xenos"
+      "id": "chaos_space_marines",
+      "display_name": "Chaos Space Marines",
+      "keyword": "CHAOS SPACE MARINES",
+      "allegiance": "chaos"
     },
     {
       "id": "orks",
       "display_name": "Orks",
       "keyword": "ORKS",
-      "allegiance": "Xenos"
+      "allegiance": "xenos"
     },
     {
-      "id": "tau_empire",
-      "display_name": "T'au Empire",
-      "keyword": "T'AU",
-      "allegiance": "Xenos"
+      "id": "necrons",
+      "display_name": "Necrons",
+      "keyword": "NECRONS",
+      "allegiance": "xenos"
     },
     {
       "id": "tyranids",
       "display_name": "Tyranids",
       "keyword": "TYRANIDS",
-      "allegiance": "Xenos"
+      "allegiance": "xenos"
+    },
+    {
+      "id": "eldar",
+      "display_name": "Aeldari",
+      "keyword": "AELDARI",
+      "allegiance": "xenos"
+    },
+    {
+      "id": "tau_empire",
+      "display_name": "T'au Empire",
+      "keyword": "T'AU EMPIRE",
+      "allegiance": "xenos"
+    },
+    {
+      "id": "dark_eldar",
+      "display_name": "Drukhari",
+      "keyword": "DRUKHARI",
+      "allegiance": "xenos"
+    },
+    {
+      "id": "genestealer_cults",
+      "display_name": "Genestealer Cults",
+      "keyword": "GENESTEALER CULTS",
+      "allegiance": "xenos"
+    },
+    {
+      "id": "black_templars",
+      "display_name": "Black Templars",
+      "keyword": "BLACK TEMPLARS",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "ultramarines",
+      "display_name": "Ultramarines",
+      "keyword": "ULTRAMARINES",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "imperial_fists",
+      "display_name": "Imperial Fists",
+      "keyword": "IMPERIAL FISTS",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "iron_hands",
+      "display_name": "Iron Hands",
+      "keyword": "IRON HANDS",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "salamanders",
+      "display_name": "Salamanders",
+      "keyword": "SALAMANDERS",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "raven_guard",
+      "display_name": "Raven Guard",
+      "keyword": "RAVEN GUARD",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "white_scars",
+      "display_name": "White Scars",
+      "keyword": "WHITE SCARS",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "deathwatch",
+      "display_name": "Deathwatch",
+      "keyword": "DEATHWATCH",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "adeptus_mechanicus",
+      "display_name": "Adeptus Mechanicus",
+      "keyword": "ADEPTUS MECHANICUS",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "imperial_knights",
+      "display_name": "Imperial Knights",
+      "keyword": "IMPERIAL KNIGHTS",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "imperial_agents",
+      "display_name": "Imperial Agents",
+      "keyword": "IMPERIAL AGENTS",
+      "allegiance": "imperium"
+    },
+    {
+      "id": "chaos_daemons",
+      "display_name": "Chaos Daemons",
+      "keyword": "CHAOS DAEMONS",
+      "allegiance": "chaos"
+    },
+    {
+      "id": "chaos_knights",
+      "display_name": "Chaos Knights",
+      "keyword": "CHAOS KNIGHTS",
+      "allegiance": "chaos"
+    },
+    {
+      "id": "leagues_of_votann",
+      "display_name": "Leagues of Votann",
+      "keyword": "LEAGUES OF VOTANN",
+      "allegiance": "xenos"
     }
   ]
 }

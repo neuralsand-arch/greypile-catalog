@@ -1,7 +1,7 @@
 {
   "version": "2026.05.01",
-  "generated_at": "2026-05-01T00:00:00Z",
-  "total_units": 15,
+  "generated_at": "2026-05-01T10:33:25.228Z",
+  "total_units": 0,
   "game_systems": [
     "wh40k",
     "aos"
@@ -10,13 +10,7 @@
     {
       "version": "2026.05.01",
       "changes": [
-        "Rebuilt WH40K factions to match BSData/wh40k-10e (35 factions)",
-        "Renamed sisters_of_battle → adepta_sororitas",
-        "Renamed eldar → craftworlds",
-        "Renamed dark_eldar → drukhari",
-        "Renamed imperial_agents → agents_of_the_imperium",
-        "Added Ynnari",
-        "Fixed faction keywords and allegiance capitalisation"
+        "clear all"
       ]
     }
   ]
