@@ -1,6 +1,6 @@
 {
   "version": "2026.05.01",
-  "generated_at": "2026-05-01T10:33:25.228Z",
+  "generated_at": "2026-05-01T10:38:10.713Z",
   "total_units": 0,
   "game_systems": [
     "wh40k",
@@ -10,7 +10,7 @@
     {
       "version": "2026.05.01",
       "changes": [
-        "clear all"
+        "clear"
       ]
     }
   ]
