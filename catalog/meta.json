@@ -1,12 +1,18 @@
 {
-  "version": "2026.05.08-4",
-  "generated_at": "2026-05-08T11:59:30.658Z",
+  "version": "2026.05.08-5",
+  "generated_at": "2026-05-08T12:00:33.403Z",
   "total_units": 2085,
   "game_systems": [
     "wh40k",
     "aos"
   ],
   "changelog": [
+    {
+      "version": "2026.05.08-5",
+      "changes": [
+        "40k catalog"
+      ]
+    },
     {
       "version": "2026.05.08-4",
       "changes": [
