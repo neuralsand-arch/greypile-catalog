@@ -213,7 +213,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 340,
+      "points_cost": 430,
       "tags": []
     },
     {
@@ -225,7 +225,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 240,
+      "points_cost": 400,
       "tags": []
     },
     {
@@ -237,7 +237,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 90,
+      "points_cost": 100,
       "tags": []
     },
     {
@@ -249,7 +249,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 95,
+      "points_cost": 150,
       "tags": []
     },
     {
@@ -261,7 +261,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 80,
+      "points_cost": 140,
       "tags": []
     },
     {
