@@ -249,7 +249,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 50,
+      "points_cost": 40,
       "tags": []
     },
     {
@@ -417,7 +417,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 110,
+      "points_cost": 100,
       "tags": []
     },
     {

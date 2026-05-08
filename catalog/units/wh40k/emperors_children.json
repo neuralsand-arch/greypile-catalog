@@ -129,7 +129,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 145,
+      "points_cost": 175,
       "tags": []
     },
     {
@@ -213,7 +213,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 430,
+      "points_cost": 340,
       "tags": []
     },
     {
@@ -225,7 +225,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 400,
+      "points_cost": 240,
       "tags": []
     },
     {
@@ -237,7 +237,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 100,
+      "points_cost": 90,
       "tags": []
     },
     {
@@ -249,7 +249,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 150,
+      "points_cost": 95,
       "tags": []
     },
     {
@@ -261,7 +261,7 @@
       "edition_introduced": null,
       "status": "current",
       "renamed_to": null,
-      "points_cost": 140,
+      "points_cost": 80,
       "tags": []
     },
     {
